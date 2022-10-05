@@ -1,5 +1,5 @@
 # UEPSP
 A unified embedding for polypharmacy side effect prediction.
 
-This repository provide the source codes implementing an integrated embedding method for side-effect prediction based on the knowledge graph.
-The source code is provided after peer review of the Bioinformatics journal.
+Source codes for implementing an embedding method for side-effect prediction based on the knowledge graph.
+It will is provided after peer-review process of the Bioinformatics journal.
